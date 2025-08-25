@@ -8,6 +8,6 @@ Updates to be pushed
 
 updates to be pulled
 
-update to learn issue 
+updates made to the fun-fact branch
 
-try see #1 
+updates to learn to use issue
