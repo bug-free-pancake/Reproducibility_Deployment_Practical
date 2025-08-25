@@ -1,7 +1,7 @@
 # trial
 
 - Reproducibility & Model Deployment
-- Short description
+- Short description model to be replicated
 - Xiaoxiao
 
 Updates to be pushed
