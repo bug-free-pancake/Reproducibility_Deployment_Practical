@@ -1,13 +1,17 @@
-# trial
+# Reproducibility & Model Deployment Practical
 
-- Reproducibility & Model Deployment
-- Short description model to be replicated model to be deployed
-- Xiaoxiao
+- This is the repo for in-class practice for the course *Reproducibility & Model Deployment*.
+- The course covers: 
+    - Git/GitHub
+    - Linux/WSL, shell scripting, VSCode tools
+    - Testing, debugging, object-oriented design
+    - Docker, environment encapsulation, experiment logging
+    - Data ingestion, scraping, scaling, classification
+    - Web deployment (Streamlit, FastAPI), model serving
+- Author: Xiaoxiao
 
-Updates to be pushed
-
-updates to be pulled
-
-updates made to the fun-fact branch
-
-updates to learn to use issue
+## Updates
+- Updates to be pushed
+- Updates to be pulled
+- Updates made to the fun-fact branch
+- Updates to practice using issues
